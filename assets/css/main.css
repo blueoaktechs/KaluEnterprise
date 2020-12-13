@@ -14,17 +14,6 @@ body, html {
   font-size: 25px;
 }
 
-.topleft {
-  position: absolute;
-  top: 0;
-  left: 16px;
-}
-
-.topleft img{
-height: 50px;
-width: 50px;
-}
-
 .bottomleft {
   position: absolute;
   bottom: 0;
