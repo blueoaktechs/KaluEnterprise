@@ -32,3 +32,22 @@ hr {
   margin: auto;
   width: 40%;
 }
+/* services start */
+
+#first{
+  background: url("../images/1.jpg");
+  background-repeat: no-repeat;
+  height: 90px;
+}
+#second{
+  background: url("../images/supplements.jpg");
+  background-repeat: no-repeat;
+  height: 90px;
+}
+#third{
+  background: url("../images/1.jpg");
+  background-repeat: no-repeat;
+  height: 90px;
+}
+
+/* services end */
